@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS3 Arrow test</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<div id="arrow"></div>
+</body>
+</html>
